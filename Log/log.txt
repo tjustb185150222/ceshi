@@ -1,0 +1,2 @@
+2023-05-19 16:31:46,812 - main - Log.py[line:40] - INFO - log test----------
+2023-05-19 16:37:43,048 - main - Log.py[line:51] - INFO - log test----------
